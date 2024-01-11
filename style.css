@@ -1,23 +1,12 @@
-h1{
-    color:brown;
-    background-color:burlywood;
-}
-h2{
-    color:green;
-    background-color:pink;
-}
-p{
-    color:darkblue;
-    background-color: darkkhaki;
-}
-button{
-    color:cornflowerblue;
-    background-color: black;
-}
-
 body{
-    /* background-color: black; */
-    /* color: rgb(34, 35, 87); */
-    background-color: rgb(241, 178, 178);
-    
+    background-color: bisque;
+}
+header a{
+    color: aqua;
+}
+.Active{
+    background-color: red;
+}
+footer{
+    color: aquamarine;
 }
